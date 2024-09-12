@@ -1,0 +1,341 @@
+    1  ping 172.20.25.9
+    2  pswd
+    3  passwd
+    4  wget www.github.com
+    5  ls
+    6  cd
+    7  ls
+    8  cd~
+    9  cd ~
+   10  ls
+   11  cd ..
+   12  ls
+   13  ping
+   14  wget www.github.com
+   15  ls
+   16  cd mvirayfa24
+   17  ls
+   18  git --version
+   19  git clone https://github.com/miguelvirayy/a1-collab-miguelvirayy.git
+   20  ls
+   21  cd~ a1-collab-miguelvirayy
+   22  cd a1-collab-miguelvirayy
+   23  git branch mvirayfa24-colab
+   24  git branch mvirayfa24-collab
+   25  git branch
+   26  git checkout mvirayfa24-colab
+   27  git branch
+   28  git checkout main
+   29  git checkout mvirayfa24-collab
+   30  git branch
+   31  ls
+   32  git checkout main
+   33  ls
+   34  cd Collaborators.md
+   35  ls
+   36  Collaborators.md
+   37  open Collaborators.md
+   38  ls
+   39  notepad Collaborators.md
+   40  la
+   41  ls
+   42  git branch
+   43  ls
+   44  open Collaborators.md
+   45  ls
+   46  open Collaborators.md
+   47  pwd
+   48  ls
+   49  ping
+   50  ping 172.20.25.9
+   51  clone https://github.com/CS131-BigDataProcessing/a1-collab-miguelvirayy.git
+   52  git clone https://github.com/CS131-BigDataProcessing/a1-collab-miguelvirayy.git
+   53  git branch
+   54  git checkout mvirayfa24-collab
+   55  git status
+   56  git clone https://github.com/miguelvirayy/a1-collab-miguelvirayy.git
+   57  ls
+   58  cd a1-collab-miguelvirayyy
+   59  cd a1-collab-miguelvirayy
+   60  ls
+   61  git branch
+   62  git checkout mvirayfa24-collab
+   63  git branch
+   64  ls
+   65  vi Collaborators.md
+   66  git status
+   67  git push --set-upstream origin mvirayfa24-collab
+   68  ls
+   69  git status
+   70  git pull origin main
+   71  git checkout main
+   72  git merge mvirayfa24-collab
+   73  git add Collaborators.md
+   74  git commit -m "Miguel Viray added to collaborators"
+   75  git status
+   76  git commit -m "Miguel Viray added to collaborators"
+   77  ls
+   78  vi Collaborators.md
+   79  ping 172.20.25.9
+   80  ls
+   81  cd a1-collab-miguelvirayy
+   82  ls
+   83  git branch
+   84  vi Collaborators.md
+   85  git status
+   86  git commit -m "Miguel Viray added to collaborators"
+   87  pwd
+   88  git config --global user.email 
+   89  git config --global user.email "miguelvirayyy@gmail.com"
+   90  git config --global user.name "Miguel Viray"
+   91  git commit -m "Miguel Viray added to collaborators"
+   92  git pull origin main
+   93  git checkout main
+   94  git status
+   95  git push
+   96  ls
+   97  git status
+   98  cd a1-collab-miguelvirayy
+   99  ls
+  100  git status
+  101  vi Collaborators.md
+  102  git status
+  103  git push
+  104  pwd
+  105  ping 172.20.25.9
+  106  ls
+  107  cd a1-collab-miguelvirayy
+  108  ls
+  109  vi Collaborators.md
+  110  git status
+  111  git push
+  112  ls -al ~/.ssh
+  113  git push
+  114  ls
+  115  rm -rf a1-collab-miguelvirayy
+  116  ls
+  117  git clone git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+  118  ls
+  119  git clone git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+  120  ls
+  121  git status
+  122  git clone git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+  123  ls
+  124  git clone git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+  125  ls
+  126  git clone git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+  127  eval "$(ssh-agent -s)"
+  128  ssh-add -l -E sha25
+  129  ssh-add -l -E sha256
+  130  ssh -vT git@github.com
+  131  ssh -T git@github.com
+  132  ssh-add -l -E sha256
+  133  ssh-keygen -t ed25519 -C "miguelvirayyy@gmail.com"
+  134   eval "$(ssh-agent -s)"
+  135  open ~/.ssh/config
+  136  touch ~/.ssh/config
+  137  open ~/.ssh/config
+  138  ls
+  139  git status
+  140  git branch
+  141  git clone git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+  142  git clone https://github.com/miguelvirayy/a1-collab-miguelvirayy.git
+  143  ls
+  144  git branch miguelvirayy-collab
+  145  ls
+  146  cd a1-collab-miguelvirayy
+  147  ls
+  148  git branch
+  149  git branch miguelvirayy-collab
+  150  git branch
+  151  git checkout miguelvirayy-collab
+  152  git branch
+  153  ls
+  154  vi Collaborators.md
+  155  git status
+  156  git pull origin main
+  157  git checkout main
+  158  git merge miguelvirayy-collab
+  159  ls
+  160  vi Collaborators.md
+  161  git add Collaborators.md
+  162  git commit -m "Miguel Viray added to colalborators"
+  163  git push
+  164  .git/config
+  165  cd ..
+  166  ls
+  167  git clone git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+  168  cd.git
+  169  rm -rf a1-collab-miguelirayy
+  170  ls
+  171  rm -rf a1-collab-miguelvirayy
+  172  ls
+  173  git clone git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+  174  ls
+  175  git status
+  176  git branch
+  177  git clone git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+  178  ping 172.20.25.9
+  179  ls
+  180  git clone git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+  181  git clone git@github.com:CS131-BigDataProcessing/a1-collab-miguelvirayy.git
+  182  ls
+  183  git clone git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+  184  ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+  185  eval "$(ssh-agent -s)"
+  186  ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+  187  open ~/.ssh/config
+  188  git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+  189  git clone git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+  190  git branch
+  191  ls
+  192  git clone git@github.com:CS131-BigDataProcessing/a1-collab-miguelvirayy.git
+  193  git clone git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+  194  vim ~/.ssh/config
+  195  git clone git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+  196  vim ~/.ssh/config
+  197  ssh-keygen -t ed25519 -C "your_email@example.com"
+  198  ls
+  199  ssh-keygen -t ed25519 -C "miguelvirayyy@gmail.com"
+  200  pbcopy < ~/.ssh/id_ed25519.pub 
+  201  ssh-keygen -t ed25519 -C "miguelvirayyy@gmail.com"
+  202  pbcopy < ~/.ssh/id_ed25519.pub 
+  203  ls
+  204  vi index.html
+  205  pwd
+  206  vi
+  207  pbcopy
+  208  eval "$(ssh-agent -s)"
+  209  nano ~/.ssh/config
+  210  $ open ~/.ssh/config
+  211  open ~/.ssh/config
+  212  ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+  213  -T pubkey
+  214  -T
+  215  pubkey
+  216  -l
+  217  git clone git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+  218  ssh-add ~/.ssh/id_ed25519
+  219  git clone git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+  220  help
+  221  git clone git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+  222  ls -ld ~/.ssh
+  223  chmod 700 ~/.ssh
+  224  ls -ld ~/.ssh
+  225  ls -l ~/.ssh/config
+  226  chmod 600 ~/.ssh/config
+  227  ls -l ~/.ssh/config
+  228  git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+  229  git clone git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+  230  sudo chown $USER:$USER ~/.ssh/config
+  231  ls
+  232  git clone sudo chown $USER:$USER ~/.ssh/config
+  233  git clone git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+  234  nano ~/.ssh/config
+  235  git clone git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+  236  ls -al ~/.ssh
+  237  ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+  238  ls -al ~/.ssh
+  239  ssh-keygen -t rsa -b 4096 -C "miguelvirayyy@gmail.com"
+  240  ls -al ~/.ssh
+  241  eval "$(ssh-agent -s)"
+  242  ssh-add ~/.ssh/id_rsa
+  243  cat ~/.ssh/id_rsa.pub
+  244  ssh -T git@github.com
+  245  git clone git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+  246  ls
+  247  git branch mvirayfa24-collab
+  248  cd a1-collab-miguelvirayy
+  249  ls
+  250  git branch
+  251  git branch miguelvirayy-collab
+  252  git checkout miguelvirayy-collab
+  253  git branch
+  254  vi Collaborators.md
+  255  git status
+  256  git pull origin main
+  257  git checkout main
+  258  git merge miguelvirayy-collab
+  259  git status
+  260  git push --set-upstream origin miguelvirayy-collab
+  261  git status
+  262  git pull origin main
+  263  git checkout main
+  264  git merge miguelvirayy-collab
+  265  git add Collaborators.md
+  266  git commit -m "Miguel Viray added to collaborators"
+  267  git push
+  268  git status
+  269  ls
+  270  vi Collaborators.md
+  271  cd ..
+  272  ls
+  273  ping 172.20.25.9
+  274  clear
+  275  ls
+  276  git clone https://github.com/CS131-BigDataProcessing/CS131_fa24_datafiles.git
+  277  ls
+  278  cd CS131_fa24_datafiles
+  279  ls
+  280  cd Lec02
+  281  ls
+  282  git pull goodluck.txt
+  283  cd CS131_fa24_datafiles
+  284  ls
+  285  cd Lec02
+  286  ls
+  287  git pull goodluck.txt
+  288  vi goodluck.txt
+  289  CS131_fa24_datafiles
+  290  cd CS131_fa24_datafiles
+  291  ls
+  292  cd Lec02
+  293  ls
+  294  vi goodluck.txt
+  295  ls
+  296  vi goodluck.txt
+  297  ls
+  298  vi goodluck.txt
+  299  grep "Good luck, babe " goodluck.txt
+  300  grep "Good luck, babe " goodluck.txt wc -l
+  301  grep "Good luck, babe " goodluck.txt |  wc -l
+  302  grep "Good luck, babe " goodluck.txt |  wc 
+  303  grep "Good luck, babe " goodluck.txt |  wc -w
+  304  wc goodluck.txt
+  305  grep "Good luck, babe " goodluck.txt |  wc -w > viraym_a2_counts.txt
+  306  ls
+  307  vi viraym_a2_counts.txt
+  308  grep "Good luck, babe " goodluck.txt |  wc > viraym_a2_counts.txt
+  309  vi viraym_a2_counts.txt
+  310  ls
+  311  cd CS131_fa24_datafiles
+  312  ls
+  313  cd Lec02
+  314  ls
+  315  clear
+  316  ls
+  317  vi viraym_a2_counts.txt
+  318  grep "Good luck, babe " goodluck.txt |  wc -w > viraym_a2_counts.txt
+  319  vi viraym_a2_counts.txt
+  320  grep "Good luck, babe " goodluck.txt |  wc > viraym_a2_counts.txt
+  321  vi miraym_a2_counts.txt
+  322  grep "Good luck, babe " goodluck.txt
+  323  grep "Good luck, babe " goodluck.txt wc -l
+  324  grep "Good luck, babe " goodluck.txt |  wc > viraym_a2_counts.txt
+  325  vi miraym_a2_counts.txt
+  326  grep "Good luck, babe " goodluck.txt |  wc -w > viraym_a2_counts.txt
+  327  vi miraym_a2_counts.txt
+  328  ls
+  329  vi goodluck.txt
+  330  vi miraym_a2_counts.txt
+  331  clear
+  332  wc -l goodluck.text
+  333  ls
+  334  wc -l goodluck.txt
+  335  grep wor goodluck.txt
+  336  grep dred goodluck.txt
+  337  grep "Good luck, babe" goodluck.txt
+  338  wc goodluck.txt
+  339  wc goodluck.txt >> viraym_a2_counts.txt
+  340  vi viraym_a2_counts.txt
+  341  history > viraym_a2_cmds.log

@@ -1,0 +1,3 @@
+Numbers show line count, word count, character count, and file name in order.
+
+50  466 2346 
