@@ -1,0 +1,8 @@
+Q1) The airlines included in the data set are Alaska, American, Delta, Jet Blue, Southwest, and United.
+    The awk command I used to obtain this info was -F, '{print $4}' | sort | uniq.
+
+Q2) a.) The airlines that have a carrier delay greater than 10% in alphabetical order are "Alaska", "American", "Delta", "Jet Blue"        , "Southwest", and "United". 
+	The command I used was: awk -F, '$1 > 10 {print $4}' airline_stats.csv | sort | uniq
+
+    b.) The airlines that have a carrier delay greater than threshold=15 are the same as above which are "Alaska", "American",             "Delta", "Jet Blue", "Southwest", and "United".
+        The command I used was: awk -F, -v t="$threshold" ' { if ($1 > threshold) print $4 } ' airline_stats.csv | sort | uniq 

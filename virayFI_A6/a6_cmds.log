@@ -1,0 +1,1000 @@
+   41  git branch
+   42  ls
+   43  vi Collaborators.md
+   44  git status
+   45  git pull origin main
+   46  git checkout main
+   47  git merge miguelvirayy-collab
+   48  ls
+   49  vi Collaborators.md
+   50  git add Collaborators.md
+   51  git commit -m "Miguel Viray added to colalborators"
+   52  git push
+   53  .git/config
+   54  cd ..
+   55  ls
+   56  git clone git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+   57  cd.git
+   58  rm -rf a1-collab-miguelirayy
+   59  ls
+   60  rm -rf a1-collab-miguelvirayy
+   61  ls
+   62  git clone git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+   63  ls
+   64  git status
+   65  git branch
+   66  git clone git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+   67  ping 172.20.25.9
+   68  ls
+   69  git clone git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+   70  git clone git@github.com:CS131-BigDataProcessing/a1-collab-miguelvirayy.git
+   71  ls
+   72  git clone git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+   73  ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+   74  eval "$(ssh-agent -s)"
+   75  ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+   76  open ~/.ssh/config
+   77  git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+   78  git clone git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+   79  git branch
+   80  ls
+   81  git clone git@github.com:CS131-BigDataProcessing/a1-collab-miguelvirayy.git
+   82  git clone git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+   83  vim ~/.ssh/config
+   84  git clone git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+   85  vim ~/.ssh/config
+   86  ssh-keygen -t ed25519 -C "your_email@example.com"
+   87  ls
+   88  ssh-keygen -t ed25519 -C "miguelvirayyy@gmail.com"
+   89  pbcopy < ~/.ssh/id_ed25519.pub 
+   90  ssh-keygen -t ed25519 -C "miguelvirayyy@gmail.com"
+   91  pbcopy < ~/.ssh/id_ed25519.pub 
+   92  ls
+   93  vi index.html
+   94  pwd
+   95  vi
+   96  pbcopy
+   97  eval "$(ssh-agent -s)"
+   98  nano ~/.ssh/config
+   99  $ open ~/.ssh/config
+  100  open ~/.ssh/config
+  101  ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+  102  -T pubkey
+  103  -T
+  104  pubkey
+  105  -l
+  106  git clone git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+  107  ssh-add ~/.ssh/id_ed25519
+  108  git clone git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+  109  help
+  110  git clone git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+  111  ls -ld ~/.ssh
+  112  chmod 700 ~/.ssh
+  113  ls -ld ~/.ssh
+  114  ls -l ~/.ssh/config
+  115  chmod 600 ~/.ssh/config
+  116  ls -l ~/.ssh/config
+  117  git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+  118  git clone git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+  119  sudo chown $USER:$USER ~/.ssh/config
+  120  ls
+  121  git clone sudo chown $USER:$USER ~/.ssh/config
+  122  git clone git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+  123  nano ~/.ssh/config
+  124  git clone git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+  125  ls -al ~/.ssh
+  126  ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+  127  ls -al ~/.ssh
+  128  ssh-keygen -t rsa -b 4096 -C "miguelvirayyy@gmail.com"
+  129  ls -al ~/.ssh
+  130  eval "$(ssh-agent -s)"
+  131  ssh-add ~/.ssh/id_rsa
+  132  cat ~/.ssh/id_rsa.pub
+  133  ssh -T git@github.com
+  134  git clone git@github.com:miguelvirayy/a1-collab-miguelvirayy.git
+  135  ls
+  136  git branch mvirayfa24-collab
+  137  cd a1-collab-miguelvirayy
+  138  ls
+  139  git branch
+  140  git branch miguelvirayy-collab
+  141  git checkout miguelvirayy-collab
+  142  git branch
+  143  vi Collaborators.md
+  144  git status
+  145  git pull origin main
+  146  git checkout main
+  147  git merge miguelvirayy-collab
+  148  git status
+  149  git push --set-upstream origin miguelvirayy-collab
+  150  git status
+  151  git pull origin main
+  152  git checkout main
+  153  git merge miguelvirayy-collab
+  154  git add Collaborators.md
+  155  git commit -m "Miguel Viray added to collaborators"
+  156  git push
+  157  git status
+  158  ls
+  159  vi Collaborators.md
+  160  cd ..
+  161  ls
+  162  ping 172.20.25.9
+  163  clear
+  164  ls
+  165  git clone https://github.com/CS131-BigDataProcessing/CS131_fa24_datafiles.git
+  166  ls
+  167  cd CS131_fa24_datafiles
+  168  ls
+  169  cd Lec02
+  170  ls
+  171  git pull goodluck.txt
+  172  cd CS131_fa24_datafiles
+  173  ls
+  174  cd Lec02
+  175  ls
+  176  git pull goodluck.txt
+  177  vi goodluck.txt
+  178  CS131_fa24_datafiles
+  179  cd CS131_fa24_datafiles
+  180  ls
+  181  cd Lec02
+  182  ls
+  183  vi goodluck.txt
+  184  ls
+  185  vi goodluck.txt
+  186  ls
+  187  vi goodluck.txt
+  188  grep "Good luck, babe " goodluck.txt
+  189  grep "Good luck, babe " goodluck.txt wc -l
+  190  grep "Good luck, babe " goodluck.txt |  wc -l
+  191  grep "Good luck, babe " goodluck.txt |  wc 
+  192  grep "Good luck, babe " goodluck.txt |  wc -w
+  193  wc goodluck.txt
+  194  grep "Good luck, babe " goodluck.txt |  wc -w > viraym_a2_counts.txt
+  195  ls
+  196  vi viraym_a2_counts.txt
+  197  grep "Good luck, babe " goodluck.txt |  wc > viraym_a2_counts.txt
+  198  vi viraym_a2_counts.txt
+  199  ls
+  200  cd CS131_fa24_datafiles
+  201  ls
+  202  cd Lec02
+  203  ls
+  204  clear
+  205  ls
+  206  vi viraym_a2_counts.txt
+  207  grep "Good luck, babe " goodluck.txt |  wc -w > viraym_a2_counts.txt
+  208  vi viraym_a2_counts.txt
+  209  grep "Good luck, babe " goodluck.txt |  wc > viraym_a2_counts.txt
+  210  vi miraym_a2_counts.txt
+  211  grep "Good luck, babe " goodluck.txt
+  212  grep "Good luck, babe " goodluck.txt wc -l
+  213  grep "Good luck, babe " goodluck.txt |  wc > viraym_a2_counts.txt
+  214  vi miraym_a2_counts.txt
+  215  grep "Good luck, babe " goodluck.txt |  wc -w > viraym_a2_counts.txt
+  216  vi miraym_a2_counts.txt
+  217  ls
+  218  vi goodluck.txt
+  219  vi miraym_a2_counts.txt
+  220  clear
+  221  wc -l goodluck.text
+  222  ls
+  223  wc -l goodluck.txt
+  224  grep wor goodluck.txt
+  225  grep dred goodluck.txt
+  226  grep "Good luck, babe" goodluck.txt
+  227  wc goodluck.txt
+  228  wc goodluck.txt >> viraym_a2_counts.txt
+  229  vi viraym_a2_counts.txt
+  230  history > viraym_a2_cmds.log
+  231  ls
+  232  vi viray_a2_cmds.log
+  233  cd $HOME
+  234  ls
+  235  mkdir viraym_A2
+  236  ls
+  237  clear
+  238  mkdir virayM_A4_shell
+  239  ls
+  240  cd virayM_A4_shell
+  241  vi class_practice.sh
+  242  echo "Hello, $miguel"
+  243  sh class_practice.sh miguel
+  244  vi
+  245  vi class_practice.sh
+  246  sh class_practice.sh miguel
+  247  sh class_practice.sh miguel viray
+  248  sh class_practice.sh Muugle
+  249  vi class_practice.sh
+  250  sh class_practice.sh Muugle
+  251  sh class_practice.sh Muugle poo
+  252  clear
+  253  ls
+  254  ssh class_practice.sh hoe azz
+  255  sh class_practice.sh hoe azz
+  256  clear 
+  257  vi class_practice.sh
+  258  sh class_practice.sh b
+  259  sh class_practice.sh 
+  260  vi class_practice.sh
+  261  sh class_practice.sh 
+  262  cd $home
+  263  ls
+  264  clear
+  265  ls
+  266  cd viraym_A2
+  267  pwd
+  268  cd ..
+  269  cd CS1131_fa24_datafiles
+  270  cd CS131_fa24_datafiles
+  271  ls
+  272  cd Lec02
+  273  ls
+  274  pwd
+  275  cd $home
+  276  cp -R /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/CS131_fa24_datafiles/Lec02/viraym_a2_counts.txt /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/viraym_A2
+  277  ls
+  278  cd viraym_A2
+  279  ls
+  280  vi viraym_a2_counts.txt
+  281  cd 4home
+  282  cd CS131_fa24_datafiles
+  283  cd ..
+  284  cd CS131_fa24_datafiles
+  285  ls
+  286  cd Lec02
+  287  ls
+  288  cd $home
+  289  cp -R /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/CS131_fa24_datafiles/Lec02/viraym_a2_cmds.log /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/viraym_A2
+  290  ls
+  291  viraym_A2
+  292  cd viraym_A2
+  293  ls
+  294  cd ..
+  295  cd CS131_fa24_datafiles
+  296  cd Lec02
+  297  ls
+  298  vi viraym_a2_counts.txt
+  299  cd $home
+  300  clear
+  301  ls
+  302  ping 172.20.25.9
+  303  git remote add https://github.com/CS131-BigDataProcessing/mini-assignments-miguelvirayy.git
+  304  ls
+  305  cd virayM_A4_shell
+  306  git add.
+  307  git add .
+  308  cd ..
+  309  clear
+  310  git status
+  311  git
+  312  git clone https://github.com/CS131-BigDataProcessing/mini-assignments-miguelvirayy.git
+  313  ls
+  314  git status
+  315  cd virayM_A4_shell 
+  316  ls
+  317  cd ..
+  318  ls
+  319  cd viraym_A2
+  320  ls
+  321  git add viraym_a2_counts.txt
+  322  git
+  323  cd ..
+  324  ls
+  325  cd mini-assignments-miguelvirayy/
+  326  ls
+  327  git status
+  328  cd ..
+  329  pwd
+  330  mv ~/mnt/scratch/FA24_CS131_Jessica/mvirayfa24/viraym_A2 ~/mnt/scratch/FA24_CS131_Jessica/mvirayfa24/mini-assignments-miguelvirayy
+  331  cp -R ~/mnt/scratch/FA24_CS131_Jessica/mvirayfa24/viraym_A2/viraym_a2_counts.txt /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/mini-assignments-miguelvirayy
+  332  ls
+  333  cd CS131_fa24_datafiles
+  334  ls
+  335  cd..
+  336  cd ..
+  337  cat ~/.bash_profile
+  338  cat ~/.bashrc
+  339  vi ~/.bashrc
+  340  cat ~/.bashrc
+  341  pwd
+  342  ls
+  343  cat ~/.bashrc
+  344  vi ~/.bashrc
+  345  source ~/.bashrc
+  346  pwd
+  347  ls
+  348  cat ~/.bashrc
+  349  vi ~/.bashrc
+  350  cat ~/.bashrc
+  351  vi ~/.bashrc
+  352  cat ~/.bashrc
+  353  source ~/.bashrc
+  354  cat ~/.bashrc
+  355  ll
+  356  pwd
+  357  ls
+  358  mkdir virayFI_A5
+  359  ls
+  360  cd virayFI_A5
+  361  vi echoing.sh
+  362  ls
+  363  cat echoing.sh 
+  364  who
+  365  date
+  366  who
+  367  HOME
+  368  USER
+  369  $USER
+  370  HOME
+  371  SHELL
+  372  WHO
+  373  home
+  374  who
+  375  shell
+  376  cd ..
+  377  home
+  378  $home
+  379  $HOME
+  380  ls
+  381  cd virayFI_A5/
+  382  $HOME
+  383  $USER
+  384  $HOME
+  385  PWD
+  386  pwd
+  387  PWD
+  388  cd ..
+  389  user
+  390  $USER
+  391  USER
+  392  $HOME
+  393  $USER
+  394  user
+  395  $user
+  396  $USER
+  397  USER
+  398  user
+  399  clear
+  400  ls
+  401  cd virayFI_A5/
+  402  $home
+  403  $HOME
+  404  ls
+  405  vi echoing.sh 
+  406  $sh echoing.sh
+  407  cd ..
+  408  cd virayM_A4_shell/
+  409  ls
+  410  cat class_practice.sh 
+  411  cd ..
+  412  cd virayFI_A5/
+  413  ls
+  414  cat echoing.sh 
+  415  vi echoing.sh 
+  416  $sh echoing.sh
+  417  cd ..
+  418  cd virayM_A4_shell/
+  419  ls
+  420  sh class_practice.sh 
+  421  cd ..
+  422  ls
+  423  cd virayFI
+  424  cd virayFI_A5/
+  425  ls
+  426  sh echoing.sh 
+  427  vi echoing.sh 
+  428  sh echoing.sh 
+  429  cat echoing.sh 
+  430  who
+  431  date
+  432  vi echoing.sh 
+  433  sh echoing.sh 
+  434  vi echoing.sh 
+  435  sh echoing.sh 
+  436  vi echoing.sh 
+  437  sh echoing.sh 
+  438  vi echoing.sh 
+  439  sh echoing.sh 
+  440  vi echoing.sh 
+  441  sh echoing.sh 
+  442  vi echoing.sh 
+  443  sh echoing.sh 
+  444  vi echoing.sh 
+  445  cat echoing.sh 
+  446  sh echoing.sh 
+  447  vi echoing.sh 
+  448  sh echoing.sh 
+  449  sh echoing.sh Miguel 88
+  450  vi echoing.sh 
+  451  sh echoing.sh Miguel 88
+  452  vi echoing.sh 
+  453  sh echoing.sh Miguel 88
+  454  vi echoing.sh 
+  455  sh echoing.sh Miguel 88
+  456  vi echoing.sh 
+  457  sh echoing.sh Miguel 88
+  458  vi echoing.sh 
+  459  sh echoing.sh Miguel 88
+  460  vi echoing.sh 
+  461  sh echoing.sh Miguel 88
+  462  vi echoing.sh 
+  463  sh echoing.sh Miguel 88
+  464  pwd
+  465  cd $HOME
+  466  ls
+  467  clear
+  468  ls
+  469  mcd mini-assignments-miguelvirayy/
+  470  cd mini-assignments-miguelvirayy/
+  471  ls
+  472  cat a2_shell_log.txt 
+  473  cd ..
+  474  ls
+  475  cd viraym_A2/
+  476  ls
+  477  cat viraym_a2_cmds.log 
+  478  cd ..
+  479  clear
+  480  ls
+  481  cd mini-assignments-miguelvirayy/
+  482  ls
+  483  mkdir viraym_A2
+  484  ls
+  485  cd ..
+  486  ls
+  487  cd viraym_a2
+  488  cd viraym_A2
+  489  ls
+  490  pwd
+  491  cd ..
+  492  cd mini-assignments-miguelvirayy/
+  493  cd viraym_A2/
+  494  pwd
+  495  cd $HOME
+  496  cp -R ~/mnt/scratch/FA24_CS131_Jessica/mvirayfa24/viraym_A2 /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/mini-assignments-miguelvirayy/viraym_A2
+  497  cp -R ~/mnt/scratch/FA24_CS131_Jessica/mvirayfa24/viraym_A2/viraym_a2_counts.txt /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/mini-assignments-miguelvirayy/viraym_A2
+  498  cp -R ~/mvirayfa24/viraym_A2/viraym_a2_counts.txt /mvirayfa24/mini-assignments-miguelvirayy/viraym_A2
+  499  ls
+  500  cd viraym_A2
+  501  ls
+  502  cp -R ~/mvirayfa24/viraym_A2/viraym_a2_counts.txt /mvirayfa24/mini-assignments-miguelvirayy/viraym_A2
+  503  cd ..
+  504  cp -R ~/viraym_A2/viraym_a2_counts.txt /mvirayfa24/mini-assignments-miguelvirayy/viraym_A2
+  505  cp -R ~/viraym_A2/viraym_a2_counts.txt /mini-assignments-miguelvirayy/viraym_A2
+  506  cp -R ~/viraym_A2/viraym_a2_counts.txt /mini-assignments-miguelvirayy
+  507  clear
+  508  cd mini-assignments-miguelvirayy/
+  509  cd viraym_A2/
+  510  ls
+  511  cd ..
+  512  ls
+  513  cd $HOME
+  514  ls
+  515  cd CS131_fa24_datafiles/
+  516  ls
+  517  rm -R mini-assignments-miguelvirayy
+  518  cd ..
+  519  rm -R mini-assignments-miguelvirayy
+  520  ls
+  521  cd mini-assignments-miguelvirayy/
+  522  ls
+  523  cd ..
+  524  rm -R mini-assignments-miguelvirayy
+  525  ls
+  526  rm -R -f mini-assignments-miguelvirayy
+  527  ls
+  528  clear
+  529  git clone git@github.com:CS131-BigDataProcessing/mini-assignments-miguelvirayy.git
+  530  git clone https://github.com/CS131-BigDataProcessing/mini-assignments-miguelvirayy.git
+  531  ls
+  532  git cp -R /viraym_A2 /mini-asguelvirayy
+  533  git mv /viraym_A2 /mini-assignment-miguelvirayy
+  534  cd CS131_fa24_datafiles/
+  535  ls
+  536  cd Lec02/
+  537  ls
+  538  vi viraym_a2_counts.txt 
+  539  pwd
+  540  cd $HOME
+  541  git mv /CS131_fa24_datafiles/Lec02/viray_a2_counts.txt /mini-assignments-miguelvirayy
+  542  cp -R ~/CS131_fa24_datafiles/Lec02/viray_a2_counts.txt /mini-assignments-miguelvirayy
+  543  clear
+  544  cd mini-assignments-miguelvirayy/
+  545  ls
+  546  mkdir viray-m_A2
+  547  ls
+  548  cd ..
+  549  cp -R ~/CS131_fa24_datafiles/Lec02/viray_a2_counts.txt /mini-assignments-miguelvirayy/viray-m_A2
+  550  ls
+  551  cd CS131_fa24_datafiles/
+  552  ls
+  553  cd Lec02
+  554  ls
+  555  vi viraym_a2_cmds.log 
+  556  cd $HOME
+  557  ls
+  558  cd mini-assignments-miguelvirayy/
+  559  ls
+  560  cd viray-m_A2/
+  561  ls
+  562  git pull goodluck.txt
+  563  cd $HOME
+  564  ls
+  565  cd CS131_fa24_datafiles/
+  566  ls
+  567  cd Lec02/
+  568  ls
+  569  vi viraym_a2_cmds.log 
+  570  ls
+  571  git pull goodluck.txt
+  572  pwd
+  573  cd $HOME
+  574  ls
+  575  cd mini-assignments-miguelvirayy/
+  576  cd viray-m_A2/
+  577  git pull /CS131_fa24_datafiles/Lec02
+  578  clear
+  579  ls
+  580  git status
+  581  cd mini-assignments-miguelvirayy
+  582  git status
+  583  l
+  584  ls
+  585  cd $HOME
+  586  ls
+  587  cd CS131_fa24_datafiles/
+  588  ls
+  589  cd Lec02/
+  590  ls
+  591  vi viraym_a2_cmds.log 
+  592  git pull goodluck.txt
+  593  cd $HOME
+  594  ls
+  595  cd mini-assignments-miguelvirayy/
+  596  ls
+  597  cd viray-m_A2/
+  598  ls
+  599  clear
+  600  pwd
+  601  cd $HOME
+  602  ls
+  603  cd viraym_A2/
+  604  ls
+  605  vi viraym_a2_cmds.log 
+  606  pwd
+  607  cd $HOME
+  608  ls
+  609  cd mini-assignments-miguelvirayy/
+  610  ls
+  611  cd viray-m_A2/
+  612  ls
+  613  clear
+  614  cp /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/viraym_A2/viraym_a2_counts.txt /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/mini-assignments-miguelvirayy/viray-m_A2
+  615  ls
+  616  vi viraym_a2_counts.txt 
+  617  cp /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/viraym_A2/viraym_a2_cmds.log /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/mini-assignments-miguelvirayy/viray-m_A2
+  618  ls
+  619  cd ..
+  620  ls
+  621  clear
+  622  git status
+  623  git add
+  624  git add viray-m_A2/
+  625  ls
+  626  git status
+  627  git commit
+  628  git status
+  629  ls
+  630  clear
+  631  git pull
+  632  git push
+  633  cd ..
+  634  ls
+  635  clear
+  636  ls
+  637  rm -R -f mini-assignments-miguelvirayy/
+  638  ls
+  639  git clone git@github.com:CS131-BigDataProcessing/mini-assignments-miguelvirayy.git
+  640  ssh -T git@github.com
+  641  ssh-add -l
+  642  ping 172.20.25.9
+  643  ssh-add ~/.ssh/id_rsa
+  644  clear
+  645  chmod 700 ~/.ssh
+  646  chmod 600 ~/.ssh/id_rsa
+  647  chmod 644 ~/.ssh/id_rsa.pub
+  648  chmod 600 ~/.ssh/config
+  649  ssh-add ~/.ssh/id_rsa
+  650  ssh -T git@github.com
+  651  git@github.com:CS131-BigDataProcessing/mini-assignments-miguelvirayy.git
+  652  git clone git@github.com:CS131-BigDataProcessing/mini-assignments-miguelvirayy.git
+  653  ls -al ~/.ssh
+  654  eval "$(ssh-agent -s)"
+  655  ssh-add ~/.ssh/id_rsa
+  656  cat ~/.ssh/id_rsa.pub
+  657  nano ~/.ssh/config
+  658  ssh -T git@github.com
+  659  git@github.com:CS131-BigDataProcessing/mini-assignments-miguelvirayy.git
+  660  git clone git@github.com:CS131-BigDataProcessing/mini-assignments-miguelvirayy.git
+  661  ls
+  662  clear
+  663  ls
+  664  cd mini-assignments-miguelvirayy/
+  665  ls
+  666  mkdir viray-m_A2
+  667  ls
+  668  cd viray-m_A2/
+  669  pwd
+  670  cd $HOME
+  671  LS
+  672  ls
+  673  cd viraym_A2/
+  674  ls
+  675  pwd
+  676  cd ..
+  677  ls
+  678  cd mini-assignments-miguelvirayy/
+  679  cd viray-m_A2/
+  680  ls
+  681  cp /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/viraym_A2/viraym_a2_cmds.log /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/mini-assignments-miguelvirayy/viray-m_A2
+  682  cp /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/viraym_A2/viraym_a2_counts.txt /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/mini-assignments-miguelvirayy/viray-m_A2
+  683  ls
+  684  vi viraym_a2_cmds.log 
+  685  vi viraym_a2_counts.txt 
+  686  cd $HOME
+  687  clear
+  688  ls
+  689  cd mini-assignments-miguelvirayy/
+  690  git status
+  691  git add viray-m_A2/
+  692  git status
+  693  git commit
+  694  git status
+  695  git pull
+  696  git push
+  697  ls
+  698  clear
+  699  ls
+  700  cd virayFI_A5/
+  701  ls
+  702  cat echoing.sh 
+  703  sh echoing.sh
+  704  vi echoing.sh 
+  705  sh echoing.sh
+  706  clear
+  707  vi echoing.sh 
+  708  sh echoing.sh
+  709  vi echoing.sh 
+  710  sh echoing.sh
+  711  clear
+  712  vi echoing.sh 
+  713  sh echoing.sh
+  714  vi echoing.sh 
+  715  sh echoing.sh
+  716  vi echoing.sh 
+  717  sh echoing.sh
+  718  vi echoing.sh 
+  719  sh echoing.sh
+  720  clear
+  721  vi echoing.sh 
+  722  sh echoing.sh
+  723  vi echoing.sh 
+  724  sh echoing.sh
+  725  clear
+  726  ls
+  727  cd ..
+  728  ls
+  729  cd virayFI_A5/
+  730  pwd
+  731  cd ..
+  732  cd mini-assignments-miguelvirayy/
+  733  ls
+  734  pwd
+  735  cp /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/virayFI_A5 /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/mini-assignments-miguelvirayy
+  736  ls
+  737  cp -R ~/mnt/scratch/FA24_CS131_Jessica/mvirayfa24/virayFI_A5 /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/mini-assignments-miguelvirayy
+  738  cp -R /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/virayFI_A5 /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/mini-assignments-miguelvirayy/
+  739  ls
+  740  cd virayFI_A5/
+  741  ls
+  742  cat echoing.sh 
+  743  clear
+  744  cd..
+  745  cd ..
+  746  git status
+  747  ls
+  748  mv virayFI_A5 virayFI_A4
+  749  ls
+  750  git status
+  751  git add
+  752  git add virayFI_A4/
+  753  git status
+  754  git commit
+  755  git status
+  756  git push
+  757  ls
+  758  cd virayM_A4_shell/
+  759  ls
+  760  vi class_practice.sh 
+  761  cd ..
+  762  cd mini-assignments-miguelvirayy/
+  763  ls
+  764  cd virayFI_A4/
+  765  ls
+  766  vi echoing.sh 
+  767  sh echoing.sh 
+  768  sh echoing.sh Miguel
+  769  vi echoing.sh 
+  770  sh echoing.sh Miguel 100
+  771  ls
+  772  cd mini-assignments-miguelvirayy/
+  773  ls
+  774  mkdir virayFI_A5
+  775  ls
+  776  cd virayFI_A5
+  777  ls
+  778  clear
+  779  vi age.sh
+  780  ls
+  781  cd..
+  782  cd ..
+  783  ls
+  784  cd virayFI_A4
+  785  ls
+  786  vi echoing.sh 
+  787  cd ..
+  788  ls 
+  789  cd virayFI_A5
+  790  ls
+  791  vi age.sh
+  792  ls
+  793  vi age.sh 
+  794  cd ..
+  795  cd virayFI_A5
+  796  cd ..
+  797  cd virayFI_A4
+  798  vi echoing.sh 
+  799  clear
+  800  cd ..
+  801  cd virayFI_A5
+  802  vi age.sh 
+  803  sh age
+  804  sh age.sh 3
+  805  vi age.sh 
+  806  clear
+  807  ls
+  808  cd mini-assignments-miguelvirayy/
+  809  ls 
+  810  cd virayFI-A5
+  811  cd virayFI_A5
+  812  ls
+  813  vi age.sh 
+  814  sh age.sh 
+  815  vi age.sh 
+  816  clear
+  817  ls
+  818  cd mini-assignments-miguelvirayy/
+  819  ls
+  820  cd virayFI_A5
+  821  ls
+  822  cd ..
+  823  cd
+  824  ls
+  825  ls CS131_fa24_datafiles/
+  826  ls
+  827  clear
+  828  cd cs
+  829  cd CS131_fa24_datafiles/
+  830  ls
+  831  git
+  832  git status
+  833  git pull
+  834  ls
+  835  cd lec08
+  836  cd Lec08
+  837  ls
+  838  head airline_stats.csv 
+  839  awk
+  840  ls
+  841  awk airline_stats.csv 
+  842  head airline_stats.csv 
+  843  awk '{print}' airline_stats.csv 
+  844  vi airline_stats.csv 
+  845  awk -F : '/y/ { print $5 }' /etc/passwd
+  846  ls
+  847  awk -F : '/y/ { print $5 }' airline_stats.csv 
+  848  awk -F, '{print $4}' airline_stats.csv 
+  849  clear
+  850  ls
+  851  cd mini-assignments-miguelvirayy/
+  852  ls
+  853  cd virayFI_A5
+  854  ls
+  855  vi age.sh 
+  856  sh age.sh 
+  857  vi age.sh 
+  858  sh age.sh 
+  859  sh age.sh 12
+  860  vi age.sh 
+  861  sh age.sh 
+  862  sh age.sh 
+  863  vi age.sh 
+  864  sh age.sh 
+  865  sh age.sh 3
+  866  sh age.sh 312
+  867  sh age.sh 31216
+  868  sh age.sh 12
+  869  sh age.sh 15
+  870  vi age.sh 
+  871  sh age.sh 15
+  872  sh age.sh 12
+  873  sh age.sh 20
+  874  sh age.sh 40
+  875  sh age.sh 60
+  876  sh age.sh 65
+  877  sh age.sh 66
+  878  sh age.sh 5
+  879  sh age.sh 17
+  880  sh age.sh 48
+  881  sh age.sh 72
+  882  vi age.sh 
+  883  sh age.sh 55
+  884  clear
+  885  vi temperature.sh
+  886  ls
+  887  vi age.sh 
+  888  vi temperature.sh 
+  889  vi age.sh 
+  890  vi temperature.sh 
+  891  sh temperature.sh 
+  892  vi temperature.sh 
+  893  sh temperature.sh 
+  894  sh temperature.sh 56
+  895  sh temperature.sh 
+  896  vi temperature.sh 
+  897  sh temperature.sh 56
+  898  vi temperature.sh 
+  899  sh temperature.sh 56
+  900  vi temperature.sh 
+  901  sh temperature.sh 56
+  902  vi temperature.sh 
+  903  sh temperature.sh 56
+  904  vi temperature.sh 
+  905  sh temperature.sh 56
+  906  sh temperature.sh 60
+  907  sh temperature.sh 1
+  908  sh temperature.sh 100
+  909  sh temperature.sh 165
+  910  vi 
+  911  ls
+  912  vi temperature.sh 
+  913  vi age.sh 
+  914  vi temperature.sh 
+  915  sh temperature.sh 
+  916  sh temperature.sh 62
+  917  sh temperature.sh 5
+  918  vi temperature.sh 
+  919  sh temperature.sh 5
+  920  vi temperature.sh 
+  921  sh temperature.sh 
+  922  vi temperature.sh 
+  923  sh temperature.sh 
+  924  sh temperature.sh 62
+  925  sh temperature.sh 5
+  926  vi temperature.sh 
+  927  sh temperature.sh 97
+  928  sh temperature.sh 73
+  929  sh temperature.sh 62
+  930  vi temperature.sh 
+  931  sh temperature.sh 
+  932  vi temperature.sh [B
+  933  vi age.sh 
+  934  vi temperature.sh 
+  935  sh temperature.sh 
+  936  sh temperature.sh 62
+  937  sh temperature.sh 5
+  938  sh temperature.sh 97
+  939  sh temperature.sh 73
+  940  vi temperature.sh 
+  941  sh temperature.sh 73
+  942  vi temperature.sh 
+  943  sh temperature.sh 73
+  944  sh temperature.sh 5
+  945  vi temperature.sh 
+  946  sh temperature.sh 5
+  947  vi temperature.sh 
+  948  sh temperature.sh 5
+  949  clear
+  950  ls
+  951  cd
+  952  ls
+  953  cd mini-assignments-miguelvirayy/
+  954  ls
+  955  cd virayF1_A5
+  956  cd virayFI_A5
+  957  ls
+  958  vi temperature.sh 
+  959  sh temperature.sh 
+  960  vi temperature.sh 
+  961  sh temperature.sh 
+  962  sh temperature.sh 5
+  963  vi temperature.sh 
+  964  sh temperature.sh 62
+  965  sh temperature.sh 5
+  966  sh temperature.sh 97
+  967  sh temperature.sh 73
+  968  vi temperature.sh 
+  969  sh temperature.sh 
+  970  vi temperature.sh 
+  971  sh temperature.sh 62
+  972  sh temperature.sh 5
+  973  sh temperature.sh 97
+  974  sh temperature.sh 73
+  975  vi temperature.sh 
+  976  sh temperature.sh 
+  977  vi temperature.sh 
+  978  sh temperature.sh 
+  979  sh temperature.sh 62
+  980  sh temperature.sh 5
+  981  sh temperature.sh 97
+  982  sh temperature.sh 73
+  983  vi temperature.sh 
+  984  sh temperature.sh 73
+  985  sh temperature.sh 97
+  986  sh temperature.sh 5
+  987  sh temperature.sh 62
+  988  clear
+  989  ls
+  990  git status
+  991  clear
+  992  cd ..
+  993  ls
+  994  git add
+  995  git add virayFI_A5
+  996  git status
+  997  git commit
+  998  git status
+  999  git push
+ 1000  git status
+ 1001  clear
+ 1002  ls
+ 1003  cd CS131_fa24_datafiles/
+ 1004  ls
+ 1005  git status
+ 1006  git pull
+ 1007  cd Lec08
+ 1008  ls
+ 1009  vi airline_stats.csv 
+ 1010  pwd
+ 1011  cd ..
+ 1012  ls
+ 1013  cd mini-assignments-miguelvirayy/
+ 1014  ls
+ 1015  mkdir virayFI_A6
+ 1016  cd virayFI_A6
+ 1017  ls
+ 1018  cp /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/CS131_fa24_datafiles/Lec08
+ 1019  cp --help
+ 1020  pwd
+ 1021  cp /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/CS131_fa24_datafiles/Lec08
+ 1022  /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/CS131_fa24_datafiles/Lec08
+ 1023  cd ..
+ 1024  cp /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/CS131_fa24_datafiles/Lec08
+ 1025  cd mini-assignments-miguelvirayy/
+ 1026  cd virayFI_A6
+ 1027  pwd
+ 1028  cp /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/CS131_fa24_datafiles/Lec08 /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/mini-assignments-miguelvirayy/virayFI_A6
+ 1029  cp -r /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/CS131_fa24_datafiles/Lec08 /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/mini-assignments-miguelvirayy/virayFI_A6
+ 1030  ls
+ 1031  rm Lec08
+ 1032  rm Lec08/
+ 1033  rm -i Lec08/
+ 1034  rm -r Lec08/
+ 1035  ls
+ 1036  cp -r /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/CS131_fa24_datafiles/Lec08/airline_stats.csv /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/mini-assignments-miguelvirayy/virayFI_A6
+ 1037  ls
+ 1038  vi airline_inquiry.txt
+ 1039  vi a6_cmds.log
+ 1040  history > a6_cmds.log
