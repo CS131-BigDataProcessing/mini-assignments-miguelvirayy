@@ -1,0 +1,1000 @@
+   22  cd viraym_A2
+   23  ls
+   24  pwd
+   25  cd ..
+   26  cd mini-assignments-miguelvirayy/
+   27  cd viraym_A2/
+   28  pwd
+   29  cd $HOME
+   30  cp -R ~/mnt/scratch/FA24_CS131_Jessica/mvirayfa24/viraym_A2 /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/mini-assignments-miguelvirayy/viraym_A2
+   31  cp -R ~/mnt/scratch/FA24_CS131_Jessica/mvirayfa24/viraym_A2/viraym_a2_counts.txt /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/mini-assignments-miguelvirayy/viraym_A2
+   32  cp -R ~/mvirayfa24/viraym_A2/viraym_a2_counts.txt /mvirayfa24/mini-assignments-miguelvirayy/viraym_A2
+   33  ls
+   34  cd viraym_A2
+   35  ls
+   36  cp -R ~/mvirayfa24/viraym_A2/viraym_a2_counts.txt /mvirayfa24/mini-assignments-miguelvirayy/viraym_A2
+   37  cd ..
+   38  cp -R ~/viraym_A2/viraym_a2_counts.txt /mvirayfa24/mini-assignments-miguelvirayy/viraym_A2
+   39  cp -R ~/viraym_A2/viraym_a2_counts.txt /mini-assignments-miguelvirayy/viraym_A2
+   40  cp -R ~/viraym_A2/viraym_a2_counts.txt /mini-assignments-miguelvirayy
+   41  clear
+   42  cd mini-assignments-miguelvirayy/
+   43  cd viraym_A2/
+   44  ls
+   45  cd ..
+   46  ls
+   47  cd $HOME
+   48  ls
+   49  cd CS131_fa24_datafiles/
+   50  ls
+   51  rm -R mini-assignments-miguelvirayy
+   52  cd ..
+   53  rm -R mini-assignments-miguelvirayy
+   54  ls
+   55  cd mini-assignments-miguelvirayy/
+   56  ls
+   57  cd ..
+   58  rm -R mini-assignments-miguelvirayy
+   59  ls
+   60  rm -R -f mini-assignments-miguelvirayy
+   61  ls
+   62  clear
+   63  git clone git@github.com:CS131-BigDataProcessing/mini-assignments-miguelvirayy.git
+   64  git clone https://github.com/CS131-BigDataProcessing/mini-assignments-miguelvirayy.git
+   65  ls
+   66  git cp -R /viraym_A2 /mini-asguelvirayy
+   67  git mv /viraym_A2 /mini-assignment-miguelvirayy
+   68  cd CS131_fa24_datafiles/
+   69  ls
+   70  cd Lec02/
+   71  ls
+   72  vi viraym_a2_counts.txt 
+   73  pwd
+   74  cd $HOME
+   75  git mv /CS131_fa24_datafiles/Lec02/viray_a2_counts.txt /mini-assignments-miguelvirayy
+   76  cp -R ~/CS131_fa24_datafiles/Lec02/viray_a2_counts.txt /mini-assignments-miguelvirayy
+   77  clear
+   78  cd mini-assignments-miguelvirayy/
+   79  ls
+   80  mkdir viray-m_A2
+   81  ls
+   82  cd ..
+   83  cp -R ~/CS131_fa24_datafiles/Lec02/viray_a2_counts.txt /mini-assignments-miguelvirayy/viray-m_A2
+   84  ls
+   85  cd CS131_fa24_datafiles/
+   86  ls
+   87  cd Lec02
+   88  ls
+   89  vi viraym_a2_cmds.log 
+   90  cd $HOME
+   91  ls
+   92  cd mini-assignments-miguelvirayy/
+   93  ls
+   94  cd viray-m_A2/
+   95  ls
+   96  git pull goodluck.txt
+   97  cd $HOME
+   98  ls
+   99  cd CS131_fa24_datafiles/
+  100  ls
+  101  cd Lec02/
+  102  ls
+  103  vi viraym_a2_cmds.log 
+  104  ls
+  105  git pull goodluck.txt
+  106  pwd
+  107  cd $HOME
+  108  ls
+  109  cd mini-assignments-miguelvirayy/
+  110  cd viray-m_A2/
+  111  git pull /CS131_fa24_datafiles/Lec02
+  112  clear
+  113  ls
+  114  git status
+  115  cd mini-assignments-miguelvirayy
+  116  git status
+  117  l
+  118  ls
+  119  cd $HOME
+  120  ls
+  121  cd CS131_fa24_datafiles/
+  122  ls
+  123  cd Lec02/
+  124  ls
+  125  vi viraym_a2_cmds.log 
+  126  git pull goodluck.txt
+  127  cd $HOME
+  128  ls
+  129  cd mini-assignments-miguelvirayy/
+  130  ls
+  131  cd viray-m_A2/
+  132  ls
+  133  clear
+  134  pwd
+  135  cd $HOME
+  136  ls
+  137  cd viraym_A2/
+  138  ls
+  139  vi viraym_a2_cmds.log 
+  140  pwd
+  141  cd $HOME
+  142  ls
+  143  cd mini-assignments-miguelvirayy/
+  144  ls
+  145  cd viray-m_A2/
+  146  ls
+  147  clear
+  148  cp /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/viraym_A2/viraym_a2_counts.txt /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/mini-assignments-miguelvirayy/viray-m_A2
+  149  ls
+  150  vi viraym_a2_counts.txt 
+  151  cp /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/viraym_A2/viraym_a2_cmds.log /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/mini-assignments-miguelvirayy/viray-m_A2
+  152  ls
+  153  cd ..
+  154  ls
+  155  clear
+  156  git status
+  157  git add
+  158  git add viray-m_A2/
+  159  ls
+  160  git status
+  161  git commit
+  162  git status
+  163  ls
+  164  clear
+  165  git pull
+  166  git push
+  167  cd ..
+  168  ls
+  169  clear
+  170  ls
+  171  rm -R -f mini-assignments-miguelvirayy/
+  172  ls
+  173  git clone git@github.com:CS131-BigDataProcessing/mini-assignments-miguelvirayy.git
+  174  ssh -T git@github.com
+  175  ssh-add -l
+  176  ping 172.20.25.9
+  177  ssh-add ~/.ssh/id_rsa
+  178  clear
+  179  chmod 700 ~/.ssh
+  180  chmod 600 ~/.ssh/id_rsa
+  181  chmod 644 ~/.ssh/id_rsa.pub
+  182  chmod 600 ~/.ssh/config
+  183  ssh-add ~/.ssh/id_rsa
+  184  ssh -T git@github.com
+  185  git@github.com:CS131-BigDataProcessing/mini-assignments-miguelvirayy.git
+  186  git clone git@github.com:CS131-BigDataProcessing/mini-assignments-miguelvirayy.git
+  187  ls -al ~/.ssh
+  188  eval "$(ssh-agent -s)"
+  189  ssh-add ~/.ssh/id_rsa
+  190  cat ~/.ssh/id_rsa.pub
+  191  nano ~/.ssh/config
+  192  ssh -T git@github.com
+  193  git@github.com:CS131-BigDataProcessing/mini-assignments-miguelvirayy.git
+  194  git clone git@github.com:CS131-BigDataProcessing/mini-assignments-miguelvirayy.git
+  195  ls
+  196  clear
+  197  ls
+  198  cd mini-assignments-miguelvirayy/
+  199  ls
+  200  mkdir viray-m_A2
+  201  ls
+  202  cd viray-m_A2/
+  203  pwd
+  204  cd $HOME
+  205  LS
+  206  ls
+  207  cd viraym_A2/
+  208  ls
+  209  pwd
+  210  cd ..
+  211  ls
+  212  cd mini-assignments-miguelvirayy/
+  213  cd viray-m_A2/
+  214  ls
+  215  cp /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/viraym_A2/viraym_a2_cmds.log /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/mini-assignments-miguelvirayy/viray-m_A2
+  216  cp /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/viraym_A2/viraym_a2_counts.txt /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/mini-assignments-miguelvirayy/viray-m_A2
+  217  ls
+  218  vi viraym_a2_cmds.log 
+  219  vi viraym_a2_counts.txt 
+  220  cd $HOME
+  221  clear
+  222  ls
+  223  cd mini-assignments-miguelvirayy/
+  224  git status
+  225  git add viray-m_A2/
+  226  git status
+  227  git commit
+  228  git status
+  229  git pull
+  230  git push
+  231  ls
+  232  clear
+  233  ls
+  234  cd virayFI_A5/
+  235  ls
+  236  cat echoing.sh 
+  237  sh echoing.sh
+  238  vi echoing.sh 
+  239  sh echoing.sh
+  240  clear
+  241  vi echoing.sh 
+  242  sh echoing.sh
+  243  vi echoing.sh 
+  244  sh echoing.sh
+  245  clear
+  246  vi echoing.sh 
+  247  sh echoing.sh
+  248  vi echoing.sh 
+  249  sh echoing.sh
+  250  vi echoing.sh 
+  251  sh echoing.sh
+  252  vi echoing.sh 
+  253  sh echoing.sh
+  254  clear
+  255  vi echoing.sh 
+  256  sh echoing.sh
+  257  vi echoing.sh 
+  258  sh echoing.sh
+  259  clear
+  260  ls
+  261  cd ..
+  262  ls
+  263  cd virayFI_A5/
+  264  pwd
+  265  cd ..
+  266  cd mini-assignments-miguelvirayy/
+  267  ls
+  268  pwd
+  269  cp /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/virayFI_A5 /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/mini-assignments-miguelvirayy
+  270  ls
+  271  cp -R ~/mnt/scratch/FA24_CS131_Jessica/mvirayfa24/virayFI_A5 /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/mini-assignments-miguelvirayy
+  272  cp -R /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/virayFI_A5 /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/mini-assignments-miguelvirayy/
+  273  ls
+  274  cd virayFI_A5/
+  275  ls
+  276  cat echoing.sh 
+  277  clear
+  278  cd..
+  279  cd ..
+  280  git status
+  281  ls
+  282  mv virayFI_A5 virayFI_A4
+  283  ls
+  284  git status
+  285  git add
+  286  git add virayFI_A4/
+  287  git status
+  288  git commit
+  289  git status
+  290  git push
+  291  ls
+  292  cd virayM_A4_shell/
+  293  ls
+  294  vi class_practice.sh 
+  295  cd ..
+  296  cd mini-assignments-miguelvirayy/
+  297  ls
+  298  cd virayFI_A4/
+  299  ls
+  300  vi echoing.sh 
+  301  sh echoing.sh 
+  302  sh echoing.sh Miguel
+  303  vi echoing.sh 
+  304  sh echoing.sh Miguel 100
+  305  ls
+  306  cd mini-assignments-miguelvirayy/
+  307  ls
+  308  mkdir virayFI_A5
+  309  ls
+  310  cd virayFI_A5
+  311  ls
+  312  clear
+  313  vi age.sh
+  314  ls
+  315  cd..
+  316  cd ..
+  317  ls
+  318  cd virayFI_A4
+  319  ls
+  320  vi echoing.sh 
+  321  cd ..
+  322  ls 
+  323  cd virayFI_A5
+  324  ls
+  325  vi age.sh
+  326  ls
+  327  vi age.sh 
+  328  cd ..
+  329  cd virayFI_A5
+  330  cd ..
+  331  cd virayFI_A4
+  332  vi echoing.sh 
+  333  clear
+  334  cd ..
+  335  cd virayFI_A5
+  336  vi age.sh 
+  337  sh age
+  338  sh age.sh 3
+  339  vi age.sh 
+  340  clear
+  341  ls
+  342  cd mini-assignments-miguelvirayy/
+  343  ls 
+  344  cd virayFI-A5
+  345  cd virayFI_A5
+  346  ls
+  347  vi age.sh 
+  348  sh age.sh 
+  349  vi age.sh 
+  350  clear
+  351  ls
+  352  cd mini-assignments-miguelvirayy/
+  353  ls
+  354  cd virayFI_A5
+  355  ls
+  356  cd ..
+  357  cd
+  358  ls
+  359  ls CS131_fa24_datafiles/
+  360  ls
+  361  clear
+  362  cd cs
+  363  cd CS131_fa24_datafiles/
+  364  ls
+  365  git
+  366  git status
+  367  git pull
+  368  ls
+  369  cd lec08
+  370  cd Lec08
+  371  ls
+  372  head airline_stats.csv 
+  373  awk
+  374  ls
+  375  awk airline_stats.csv 
+  376  head airline_stats.csv 
+  377  awk '{print}' airline_stats.csv 
+  378  vi airline_stats.csv 
+  379  awk -F : '/y/ { print $5 }' /etc/passwd
+  380  ls
+  381  awk -F : '/y/ { print $5 }' airline_stats.csv 
+  382  awk -F, '{print $4}' airline_stats.csv 
+  383  clear
+  384  ls
+  385  cd mini-assignments-miguelvirayy/
+  386  ls
+  387  cd virayFI_A5
+  388  ls
+  389  vi age.sh 
+  390  sh age.sh 
+  391  vi age.sh 
+  392  sh age.sh 
+  393  sh age.sh 12
+  394  vi age.sh 
+  395  sh age.sh 
+  396  sh age.sh 
+  397  vi age.sh 
+  398  sh age.sh 
+  399  sh age.sh 3
+  400  sh age.sh 312
+  401  sh age.sh 31216
+  402  sh age.sh 12
+  403  sh age.sh 15
+  404  vi age.sh 
+  405  sh age.sh 15
+  406  sh age.sh 12
+  407  sh age.sh 20
+  408  sh age.sh 40
+  409  sh age.sh 60
+  410  sh age.sh 65
+  411  sh age.sh 66
+  412  sh age.sh 5
+  413  sh age.sh 17
+  414  sh age.sh 48
+  415  sh age.sh 72
+  416  vi age.sh 
+  417  sh age.sh 55
+  418  clear
+  419  vi temperature.sh
+  420  ls
+  421  vi age.sh 
+  422  vi temperature.sh 
+  423  vi age.sh 
+  424  vi temperature.sh 
+  425  sh temperature.sh 
+  426  vi temperature.sh 
+  427  sh temperature.sh 
+  428  sh temperature.sh 56
+  429  sh temperature.sh 
+  430  vi temperature.sh 
+  431  sh temperature.sh 56
+  432  vi temperature.sh 
+  433  sh temperature.sh 56
+  434  vi temperature.sh 
+  435  sh temperature.sh 56
+  436  vi temperature.sh 
+  437  sh temperature.sh 56
+  438  vi temperature.sh 
+  439  sh temperature.sh 56
+  440  sh temperature.sh 60
+  441  sh temperature.sh 1
+  442  sh temperature.sh 100
+  443  sh temperature.sh 165
+  444  vi 
+  445  ls
+  446  vi temperature.sh 
+  447  vi age.sh 
+  448  vi temperature.sh 
+  449  sh temperature.sh 
+  450  sh temperature.sh 62
+  451  sh temperature.sh 5
+  452  vi temperature.sh 
+  453  sh temperature.sh 5
+  454  vi temperature.sh 
+  455  sh temperature.sh 
+  456  vi temperature.sh 
+  457  sh temperature.sh 
+  458  sh temperature.sh 62
+  459  sh temperature.sh 5
+  460  vi temperature.sh 
+  461  sh temperature.sh 97
+  462  sh temperature.sh 73
+  463  sh temperature.sh 62
+  464  vi temperature.sh 
+  465  sh temperature.sh 
+  466  vi temperature.sh [B
+  467  vi age.sh 
+  468  vi temperature.sh 
+  469  sh temperature.sh 
+  470  sh temperature.sh 62
+  471  sh temperature.sh 5
+  472  sh temperature.sh 97
+  473  sh temperature.sh 73
+  474  vi temperature.sh 
+  475  sh temperature.sh 73
+  476  vi temperature.sh 
+  477  sh temperature.sh 73
+  478  sh temperature.sh 5
+  479  vi temperature.sh 
+  480  sh temperature.sh 5
+  481  vi temperature.sh 
+  482  sh temperature.sh 5
+  483  clear
+  484  ls
+  485  cd
+  486  ls
+  487  cd mini-assignments-miguelvirayy/
+  488  ls
+  489  cd virayF1_A5
+  490  cd virayFI_A5
+  491  ls
+  492  vi temperature.sh 
+  493  sh temperature.sh 
+  494  vi temperature.sh 
+  495  sh temperature.sh 
+  496  sh temperature.sh 5
+  497  vi temperature.sh 
+  498  sh temperature.sh 62
+  499  sh temperature.sh 5
+  500  sh temperature.sh 97
+  501  sh temperature.sh 73
+  502  vi temperature.sh 
+  503  sh temperature.sh 
+  504  vi temperature.sh 
+  505  sh temperature.sh 62
+  506  sh temperature.sh 5
+  507  sh temperature.sh 97
+  508  sh temperature.sh 73
+  509  vi temperature.sh 
+  510  sh temperature.sh 
+  511  vi temperature.sh 
+  512  sh temperature.sh 
+  513  sh temperature.sh 62
+  514  sh temperature.sh 5
+  515  sh temperature.sh 97
+  516  sh temperature.sh 73
+  517  vi temperature.sh 
+  518  sh temperature.sh 73
+  519  sh temperature.sh 97
+  520  sh temperature.sh 5
+  521  sh temperature.sh 62
+  522  clear
+  523  ls
+  524  git status
+  525  clear
+  526  cd ..
+  527  ls
+  528  git add
+  529  git add virayFI_A5
+  530  git status
+  531  git commit
+  532  git status
+  533  git push
+  534  git status
+  535  clear
+  536  ls
+  537  cd CS131_fa24_datafiles/
+  538  ls
+  539  git status
+  540  git pull
+  541  cd Lec08
+  542  ls
+  543  vi airline_stats.csv 
+  544  pwd
+  545  cd ..
+  546  ls
+  547  cd mini-assignments-miguelvirayy/
+  548  ls
+  549  mkdir virayFI_A6
+  550  cd virayFI_A6
+  551  ls
+  552  cp /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/CS131_fa24_datafiles/Lec08
+  553  cp --help
+  554  pwd
+  555  cp /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/CS131_fa24_datafiles/Lec08
+  556  /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/CS131_fa24_datafiles/Lec08
+  557  cd ..
+  558  cp /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/CS131_fa24_datafiles/Lec08
+  559  cd mini-assignments-miguelvirayy/
+  560  cd virayFI_A6
+  561  pwd
+  562  cp /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/CS131_fa24_datafiles/Lec08 /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/mini-assignments-miguelvirayy/virayFI_A6
+  563  cp -r /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/CS131_fa24_datafiles/Lec08 /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/mini-assignments-miguelvirayy/virayFI_A6
+  564  ls
+  565  rm Lec08
+  566  rm Lec08/
+  567  rm -i Lec08/
+  568  rm -r Lec08/
+  569  ls
+  570  cp -r /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/CS131_fa24_datafiles/Lec08/airline_stats.csv /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/mini-assignments-miguelvirayy/virayFI_A6
+  571  ls
+  572  vi airline_inquiry.txt
+  573  vi a6_cmds.log
+  574  history > a6_cmds.log
+  575  vi a6_cmds.log 
+  576  vi airline_inquiry.txt
+  577  vi airline_stats.csv 
+  578  awk {print} airline_stats.csv 
+  579  awk {print $1} airline_stats.csv 
+  580  awk '{print $1}' airline_stats.csv 
+  581  awk '{print}' airline_stats.csv 
+  582  awk -F '{print}' airline_stats.csv 
+  583  awk -F : '{print}' airline_stats.csv 
+  584  vi airline_stats.csv 
+  585  awk 'airline {print}' airline_stats.csv 
+  586  awk '/airline/ {print}' airline_stats.csv 
+  587  awk '// {print}' airline_stats.csv 
+  588  awk '/"airline"/ {print}' airline_stats.csv 
+  589  "airline
+  590  awk '/"airline"/ {print}' airline_stats.csv 
+  591  awk -F, {print $4}' airline_stats.csv 
+  592  awk -F, {print $4}' airline_stats.csv 
+  593  airline
+  594  "airline"
+  595  awk -F, '{print}' airline_stats.csv 
+  596  awk -F, '{print $4}' airline_stats.csv 
+  597  awk -F, '{print $4}' airline_stats.csv | sort -u
+  598  vi airline_inquiry.txt 
+  599  clear
+  600  ls
+  601  cd mini-assignments-miguelvirayy/
+  602  ls
+  603  cd virayFI_A6
+  604  ls
+  605  vi airline_stats.csv 
+  606  vi airline_inquiry
+  607  ls
+  608  vi airline_inquiry.txt 
+  609  awk '/"airline"/ {print}' airline_stats.csv 
+  610  vi airline_inquiry.txt 
+  611  awk -F, '$1 > 10 {print $4}' | sort airline_stats.csv 
+  612  awk -F, '$1 > 10 {print $4}' airline_stats.csv | sort 
+  613  awk -F, '$1 > 10 {print $4}' airline_stats.csv | sort | uniq
+  614  awk -F, '$1 > 100 {print $4}' airline_stats.csv | sort | uniq
+  615  cd air
+  616  cd airline_stats.csv
+  617  ls
+  618  vi airline_stats.csv 
+  619  vi airline_inquiry.txt 
+  620  awk -v threshold=15 '{ if ($1 > threshold) print $4 }' airline_stats.csv 
+  621  awk -v threshold="15" '{ if ($1 > threshold) print $4 }' airline_stats.csv 
+  622  awk -v threshold="15" '{ if ($1 > threshold) print $4 }' airline_stats.csv | uniq
+  623  awk -F -v threshold="15" '{ if ($1 > threshold) print $4 }' airline_stats.csv | uniq
+  624  awk -v threshold="15" -F '{ if ($1 > threshold) print $4 }' airline_stats.csv | uniq
+  625  awk -v threshold=15 -F '{ if ($1 > threshold) print $4 }' airline_stats.csv | uniq
+  626  threshold=15
+  627  awk -v t="$threshold" ' { if ($1 > threshold) print $4 } ' airline_stats.csv
+  628  awk -v t="$threshold" ' { if ($1 > threshold) print $4 } ' airline_stats.csv | uniq
+  629  awk -v t="$threshold" -F ' { if ($1 > threshold) print $4 } ' airline_stats.csv | uniq
+  630  awk -F, -v t="$threshold" ' { if ($1 > threshold) print $4 } ' airline_stats.csv | uniq
+  631  awk -F, -v t="$threshold" ' { if ($1 > threshold) print $4 } ' airline_stats.csv | sort | uniq
+  632  ls
+  633  vi airline_stats.csv 
+  634  vi airline_inquiry.txt 
+  635  clear
+  636  git status
+  637  git add
+  638  ls
+  639  git status
+  640  git commit
+  641  git add
+  642  cd ..
+  643  ls
+  644  git status
+  645  clear
+  646  ls
+  647  cd mini-assignments-miguelvirayy/
+  648  ls
+  649  git status
+  650  git add
+  651  clear
+  652  cd virayFI_A6
+  653  ls
+  654  cd ..
+  655  git commit
+  656  git add virayFI_A6/
+  657  git status
+  658  git commit
+  659  git status
+  660  git push
+  661  clear
+  662  ls
+  663  git status
+  664  cd mini-assignments-miguelvirayy/
+  665  git status
+  666  cd ..
+  667  clear
+  668  ls
+  669  cd CS131_fa24_datafiles/
+  670  ls
+  671  git status
+  672  git pull
+  673  ls
+  674  git status
+  675  git statu
+  676  git status
+  677  cd ..
+  678  cd CS131_fa24_datafiles/
+  679  git pull
+  680  ls
+  681  cd Lec)9
+  682  cd Lec09
+  683  ls
+  684  pwd
+  685  clear
+  686  ls
+  687  cd CS131_fa24_datafiles/
+  688  ls
+  689  cd .. Lec09
+  690  cd Lec09
+  691  ls
+  692  pwd
+  693  cd ..
+  694  cd..
+  695  cd ..
+  696  cd mini-assignments-miguelvirayy/
+  697  ls
+  698  mkdir viray_A8
+  699  cd viray_A*
+  700  pwd
+  701  cd ..
+  702  cp /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/CS131_fa24_datafiles/Lec09 /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/mini-assignments-miguelvirayy/viray_A8
+  703  cp -r /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/CS131_fa24_datafiles/Lec09 /mnt/scratch/FA24_CS131_Jessica/mvirayfa24/mini-assignments-miguelvirayy/viray_A8
+  704  cd mini
+  705  cd mini-assignments-miguelvirayy/
+  706  ls
+  707  clear
+  708  cd viray_A8
+  709  ls
+  710  cd Lec09/
+  711  ls
+  712  cat AB_NYC_2019.csv
+  713  clear
+  714  cd ..
+  715  ls
+  716  cd viray_FIA6
+  717  cd virayFI_A6
+  718  ls
+  719  cd ..
+  720  cd virayFI_A5
+  721  ls
+  722  vi age.sh 
+  723  vi temperature.sh 
+  724  cd ..
+  725  clear
+  726  cron
+  727  crontab -e
+  728  ls
+  729  mkdir cron_lec
+  730  cd cron_lec/
+  731  cronjob -e
+  732  crontab -e
+  733  cron_test.txt
+  734  cd cron_test.txt
+  735  vi cron_test.txt
+  736  ls
+  737  vi cron-test.log
+  738  ls
+  739  vi cron-test.log
+  740  ls
+  741  crontab -e
+  742  vi cron-test.log
+  743  crontab -e
+  744  pwd
+  745  vi cron-test.log 
+  746  crontab -e
+  747  vi cron-test.log 
+  748  crontab -e
+  749  crontab -l
+  750  crontab -e
+  751  vi cron-test.log 
+  752  cd ..
+  753  ls
+  754  cd mini-assignments-miguelvirayy/
+  755  ls
+  756  cd viray_A8
+  757  ls
+  758  clear
+  759  cd Lec09/
+  760  ls
+  761  awk -F, '$1 != "" { print $0 }' house_sales.csv
+  762  wk -F'\t' 'NF < 21 { print "Line", NR ":", $0 }'
+  763  house_sales.csvwk -F'\t' 'NF < 21 { print "Line", NR ":", $0 }'
+  764  wk -F'\t' 'NF < 21 { print "Line", NR ":", $0 }'
+  765  awk -F'\t' 'NF < 21 { print "Line", NR ":", $0 }'
+  766  vi house_sales.csv 
+  767  awk -F'\t' 'NF < 21 { print "Line", NR ":", $0 }'
+  768  vi house_sales.csv 
+  769  cat house_sales.csv 
+  770  cd..
+  771  cd ..
+  772  cd /..
+  773  cd..
+  774  ls
+  775  cd ..
+  776  ls
+  777  cd $HOME
+  778  ls
+  779  clear
+  780  ls
+  781  cd CS131_fa24_datafiles/
+  782  ls
+  783  cd Lec09
+  784  ls
+  785  vi AB_NYC_2019.csv`
+  786  vi AB_NYC_2019.csv
+  787  vi house_sales.csv 
+  788  awk -F'\t' 'NF < 21 { print "Line", NR ":", $0 }'
+  789  awk -F'/t' 'NF <21 { print "Line" , NR ":", $0 }' house_sales.csv 
+  790  vi house_sales.csv 
+  791  cd ..
+  792  cd mini-assignments-miguelvirayy/
+  793  ls
+  794  clear
+  795  cd viray_A8/
+  796  ls
+  797  cd Lec09/
+  798  ls
+  799  awk -F'/t' 'NF <21 { print "Line" , NR ":", $0 }' house_sales.csv 
+  800  awk -F, '$1 != "" { print $0 }' house_sales.csv
+  801  clear
+  802  vi data_clean.sh
+  803  ls
+  804  vi data_clean.sh 
+  805  vi temp.csv
+  806  ls
+  807  vi cleaned_house_sales.csv
+  808  vi data_clean.sh 
+  809  awk -F'/t' 'NF <16 { print "Line" , NR ":", $0 }' house_sales.csv 
+  810  awk -F'/t' 'NF <10 { print "Line" , NR ":", $0 }' house_sales.csv 
+  811  awk -F'/t' 'NF < 22 { print "Line" , NR ":", $0 }' house_sales.csv 
+  812  awk -F'/t' 'NF <16 { print "Line" , NR ":", $0 }' house_sales.csv 
+  813  clear
+  814  ls
+  815  cd mini-assignments-miguelvirayy/
+  816  ls
+  817  cd viray_A8
+  818  ls
+  819  cd Lec09/
+  820  ls
+  821  sed 's/^[ \t]*//;s/[ \t]*$//' < house_sales.csv 
+  822  cat house_sales.csv 
+  823  sed 's/^[ \t]*//;s/[ \t]*$//' < house_sales.csv 
+  824  cat house_sales.csv 
+  825  head house_sales.csv 
+  826  clear
+  827  ls
+  828  vi data_clean.sh 
+  829  sh data_clean.sh 
+  830  head temp.csv 
+  831  head house_sales.csv 
+  832  vi
+  833  vi data_clean.sh 
+  834  sh data_clean.sh 
+  835  head temp.csv 
+  836  vi data_clean.sh 
+  837  sh data_clean.sh 
+  838  head temp.csv 
+  839  cat temp.csv 
+  840  ls
+  841  vi data_clean.sh 
+  842  vi explanation.txt
+  843  clear
+  844  ls
+  845  cd mini-assignments-miguelvirayy/
+  846  ls
+  847  cd viray_A8
+  848  ls
+  849  cd l
+  850  cd Lec09/
+  851  clear
+  852  ls
+  853  vi house_sales.csv 
+  854  vi data_clean.sh 
+  855  vi explanation.txt 
+  856  vi house_sales.csv 
+  857  wc -l house_sales.csv 
+  858  sh data_clean.sh 
+  859  cat house_sales.csv 
+  860  clear
+  861  wc -l house_sales.csv 
+  862  ls
+  863  vi data_clean.sh 
+  864  sh data_clean.sh 
+  865  wc -l house_sales.csv 
+  866  vi data_clean.sh 
+  867  vi house_sales.csv 
+  868  awk -F {print $1} house_sales.csv 
+  869  awk -F '{print $1}' house_sales.csv 
+  870  awk -F "\t" '{print $1}' house_sales.csv 
+  871  awk -F'\t' 'NF < 21 { print "Line", NR ":", $0 }'
+  872  awk -F'\t' 'NF < 21 {print "Line", NR ":", $0 }' house_sales.csv 
+  873  awk -F'\t' 'NF < 21 { print "Line", NR ":", $0 }' house_sales.csv 
+  874  vi house_sales.csv 
+  875  cd ..
+  876  ls
+  877  cd CS131_fa24_datafiles/
+  878  ls
+  879  cd Lec09
+  880  ls
+  881  awk -F'\t' 'NF < 21 { print "Line", NR ":", $0 }'
+  882  awk -F'\t' 'NF <21 { print "Line", NR ":", $0 }' house_sales.csv 
+  883  vi house_sales.csv 
+  884  cat house_sales.csv 
+  885  :q
+  886  awk -F, '$1 != "" { print $0 }' house_sales.csv
+  887  cat house_sales.csv 
+  888  cd $home
+  889  ls
+  890  CS131_fa24_datafiles
+  891  cd CS131_fa24_datafiles
+  892  ls
+  893  clear
+  894  git pull
+  895  ls
+  896  clear
+  897  ls
+  898  cd CS131_fa24_datafiles/
+  899  ls
+  900  git pull
+  901  cd Lec08
+  902  ls
+  903  cd ..
+  904  cd lec09
+  905  cd Lec09
+  906  ls
+  907  cd
+  908  ls
+  909  cd mini-assignments-miguelvirayy/
+  910  ls
+  911  cd viray_A*
+  912  ls
+  913  cd Lec09
+  914  ls
+  915  clear
+  916  ls
+  917  cat cleaned_house_sales.csv 
+  918  head cleaned_house_sales.csv 
+  919  vi cleaned_house_sales.csv 
+  920  cat AB_NYC_2019.csv
+  921  clear
+  922  ls
+  923  head AB_NYC_2019.csv
+  924  ab house_sales.csv 
+  925  head house_sales.csv 
+  926  clear
+  927  ls
+  928  vi explanation.txt 
+  929  ls
+  930  cd mini-assignments-miguelvirayy/
+  931  clear
+  932  ls
+  933  cd ..
+  934  ls
+  935  cd CS131_fa24_datafiles/
+  936  ls
+  937  cd Lec09
+  938  ls
+  939  head house_sales.csv 
+  940  vi house_sales.csv 
+  941  ls
+  942  vi AB_NYC_2019.csv
+  943  head Ab
+  944  head AB_NYC_2019.csv
+  945  head house_sales.csv 
+  946  clear
+  947  ls
+  948  clear
+  949  ls
+  950  cd mini-assignments-miguelvirayy/
+  951  ls
+  952  cd 
+  953  ls
+  954  cd cron_lec/
+  955  ls
+  956  cd
+  957  ls
+  958  cd mini-assignments-miguelvirayy/
+  959  ls
+  960  cd viray_A8
+  961  ls
+  962  clear
+  963  cd Lec09/
+  964  ls
+  965  head cleaned_house_sales.csv 
+  966  cat cleaned_house_sales.csv 
+  967  vi cleaned_house_sales.csv 
+  968  vi data_clean.sh 
+  969  clear
+  970  ls
+  971  cd mini-assignments-miguelvirayy/
+  972  ls
+  973  cd viray_A8
+  974  ks
+  975  ls
+  976  clear
+  977  cd l
+  978  cd Lec09/
+  979  ls
+  980  head cleaned_house_sales.csv 
+  981  head house_sales.csv 
+  982  clear
+  983  ls
+  984  cd mini-assignments-miguelvirayy/
+  985  ls
+  986  cd viray_A8
+  987  ls
+  988  cd Lec09/
+  989  ls
+  990  clear
+  991  ls
+  992  vi house_sales.csv 
+  993  vi cleaned_house_sales.csv 
+  994  head house_sales.csv 
+  995  cd home
+  996  cd
+  997  ls
+  998  cd mini-assignments-miguelvirayy/
+  999  cd Exam2/
+ 1000  ls
+ 1001  sed '/NULL/d' server_log.csv > server_log_remove_null.csv
+ 1002  vi server_log_remove_null.csv 
+ 1003  wc -l server_log_remove_null.csv 
+ 1004  vi server_log_remove_null.csv 
+ 1005  sed 's/\t/,/g' house_sales.csv > house_comma_seperated.csv
+ 1006  ls
+ 1007  vi house_comma_seperated.csv 
+ 1008  cd /var/log
+ 1009  ls
+ 1010  cd ..
+ 1011  ls
+ 1012  cd ..
+ 1013  ls
+ 1014  cd
+ 1015  ls
+ 1016  cd mini-assignments-miguelvirayy/
+ 1017  ls
+ 1018  cd Exam2/
+ 1019  ls
+ 1020  cmd.log
+ 1021  history > cmd.log
