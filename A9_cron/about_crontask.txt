@@ -1,0 +1,3 @@
+1. A couple other tasks that could benefit from automation through cron or at include things like system updates or current log of users. Automated system updates can insure that the system always has the latest firmware, which can aid optimization and reduce errors. Automtaed log of users can help keep a history of users at any given time, allowing actions by these users to be more easily tracked.
+
+2.Some potential risks of automated tasks include things like overwriting data or errors going unnoticed when tasks are automated. Some ways to mitiage this incldue routine checks of systems and system logs, and or a notification system that gives admin a heads up before a task is executed.
